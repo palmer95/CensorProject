@@ -9,6 +9,7 @@ STEPS TO RUN
 At root directory
 ```
   run: 'npm install'
+  run: 'npm install concurrently'
   run: 'cd client'
   run: 'npm install'
   run: 'cd ..'
